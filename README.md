@@ -1,15 +1,12 @@
 <div align="center">
 
-# Hi, I'm Nikhilesh 👋
+# Nikhilesh Kambampati
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final-year+B.Tech+IT+student;Full+Stack+%2B+AI%2FML+projects;Building+real-world+applications;Aspiring+Software+Development+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final-year+B.Tech+IT+student;Full+Stack+and+AI%2FML+projects;Aspiring+Software+Development+Engineer" alt="Typing SVG" />
 </a>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=58a6ff&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=58a6ff)
 
 </div>
 
@@ -19,37 +16,31 @@
 <tr>
 <td width="50%" valign="top">
 
-## 🚀 About Me
+## About Me
 
-🎓 Final-year B.Tech IT student at **PVPSIT, Vijayawada**.
+Final-year B.Tech Information Technology student at PVPSIT, Vijayawada, and a former virtual intern at Infosys Springboard.
 
-💻 I build full-stack apps and AI-powered tools:
+I enjoy building full-stack applications and applying AI to practical problems like document verification and email overload.
 
-- Full Stack (React, Node.js, MongoDB)
-- AI/ML (OCR, CNN, LLM, GNN)
-- CI/CD with Docker and Jenkins
-- Data Structures & Algorithms
+Currently focused on:
 
-💼 Ex-**Infosys Springboard** intern (Software Development & AI/ML).
-
-🎯 Looking for a Software Development Engineer role.
+- Full-stack development
+- AI/ML applications
+- Data structures and algorithms
 
 </td>
 <td width="50%" valign="top">
 
-## ⚙️ Developer Profile
+## Developer Profile
 
 ```yaml
 Name:       Nikhilesh Kambampati
 Role:       Aspiring Software Engineer
 Education:  B.Tech - Information Technology
-Languages:  Java • Python • SQL • JavaScript
-Stack:      React • Node.js • MongoDB • Docker
+Languages:  Java • Python • JavaScript • SQL
 Focus:      Full Stack • AI/ML • DSA
-Mindset:    Consistency • Learning • Growth
+Experience: Virtual Intern, Infosys Springboard
 ```
-
-> Growing as a developer, one commit at a time.
 
 ```java
 while (!success) {
@@ -65,130 +56,67 @@ while (!success) {
 
 ---
 
-## 📌 Projects
+## Projects
 
-### 💻 Coding Platform
-A full-stack platform where users solve programming challenges, submit solutions and track their progress.
+**AI KYC Verification** — `Python` `CNN` `OCR` `LLM` `GNN` `React`
 
-- REST APIs connect the React frontend to the Node.js backend
-- Users, problems and submissions stored in MongoDB
-- Containerized with Docker; build, test and deploy automated with a Jenkins CI/CD pipeline
+An AI-powered KYC platform for document classification, OCR-based data extraction, anomaly detection and identity verification. A React dashboard shows verification status and automated risk assessment results.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+[View repository](https://github.com/YOUR_GITHUB_USERNAME/KYC_REPO)
 
-🔗 [View repository](https://github.com/YOUR_GITHUB_USERNAME/CODING_PLATFORM_REPO)
+<br>
 
----
+**AI Email Summarizer** — `Python` `LLM` `NLP`
 
-### 🪪 AI KYC Verification
-An AI-powered KYC platform for document classification, OCR-based data extraction, anomaly detection and identity verification.
+A tool that condenses long email threads into short summaries and highlights action items, so the key points are clear without reading the full conversation.
 
-- React dashboard shows verification status and automated risk assessment
-- Connected to the backend through APIs
-- Built as part of my Infosys Springboard internship
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square)
-![OCR](https://img.shields.io/badge/OCR-555555?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=flat-square)
-![GNN](https://img.shields.io/badge/GNN-EE4C2C?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-🔗 [View repository](https://github.com/YOUR_GITHUB_USERNAME/KYC_REPO)
+[View repository](https://github.com/YOUR_GITHUB_USERNAME/EMAIL_SUMMARIZER_REPO)
 
 ---
 
-### ✉️ AI Email Summarizer
-A tool that reads long email threads and turns them into short summaries, so key points and action items are visible at a glance.
+<div align="center">
 
-- Fetches emails and cleans them (signatures, quoted replies, boilerplate)
-- Uses an LLM to produce a concise summary and pull out action items
-- Simple interface to view summaries instead of reading full threads
+## Technology Ecosystem
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-0A7E8C?style=flat-square)
+### Tools | Languages | Development
 
-🔗 [View repository](https://github.com/YOUR_GITHUB_USERNAME/EMAIL_SUMMARIZER_REPO)
+</div>
 
----
-
-### 🩸 BloodLink *(in progress)*
-An emergency blood donor connection platform for Hyderabad that links donors, hospitals and patients in real time.
-
-- Four roles: Admin, Donor, Hospital, Patient
-- Planned: nearby-donor search with Google Maps, SMS alerts, 90-day donor cooldown tracking
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-
-🔗 [View repository](https://github.com/YOUR_GITHUB_USERNAME/BloodLink)
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="25%" valign="top">
+<img src="https://img.shields.io/badge/LANGUAGES-58A6FF?style=flat-square" /><br><br>
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" /><br><br>
+<sub><b>Java • Python • JavaScript • SQL</b></sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://img.shields.io/badge/FRONTEND-A371F7?style=flat-square" /><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" /><br><br>
+<sub><b>HTML • CSS • React</b></sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://img.shields.io/badge/BACKEND%20%26%20DATABASE-FF6B6B?style=flat-square" /><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" /><br><br>
+<sub><b>Node.js • Express • MongoDB • MySQL</b></sub>
+</td>
+<td align="center" width="25%" valign="top">
+<img src="https://img.shields.io/badge/TOOLS%20%26%20PLATFORMS-00C48C?style=flat-square" /><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,jenkins&theme=dark" /><br><br>
+<sub><b>Git • GitHub • Docker • Jenkins</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Experience
+<div align="center">
 
-**Software Development & AI/ML Intern (Virtual)** · Infosys Springboard · Feb 2026 – Apr 2026
+## Connect
 
-- Built a web-based KYC workflow: document upload, identity verification, OCR processing and risk assessment
-- Connected frontend components to backend services through REST APIs
-- Applied OCR and CNN-based document processing for automated identity verification and fraud detection
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:knikhilesh440@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%" />
 
-## 🏆 Achievements
-
-- 🧩 150+ problems solved on LeetCode, contest rating 1550+
-- 🧠 100+ problems solved on CodeChef
-- 🥇 Won a cash prize at a hackathon with a working solution built under time pressure
-
-<p align="center">
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:knikhilesh440@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+</div>
