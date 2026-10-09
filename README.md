@@ -62,7 +62,7 @@ while (!success) {
 
 An AI-powered KYC platform for document classification, OCR-based data extraction, anomaly detection and identity verification. A React dashboard shows verification status and automated risk assessment results.
 
-[View repository](https://github.com/YOUR_GITHUB_USERNAME/KYC_REPO)
+[View repository](https://github.com/nikhilesh440/KYC_REPO)
 
 <br>
 
@@ -70,7 +70,7 @@ An AI-powered KYC platform for document classification, OCR-based data extractio
 
 A tool that condenses long email threads into short summaries and highlights action items, so the key points are clear without reading the full conversation.
 
-[View repository](https://github.com/YOUR_GITHUB_USERNAME/EMAIL_SUMMARIZER_REPO)
+[View repository](https://github.com/nikhilesh440/EMAIL_SUMMARIZER_REPO)
 
 ---
 
@@ -113,9 +113,8 @@ A tool that condenses long email threads into short summaries and highlights act
 
 ## Connect
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nikhilesh-kambampati-64786532a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:knikhilesh440@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" width="100%" />
 
